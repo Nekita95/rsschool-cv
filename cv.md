@@ -3,7 +3,7 @@ https://github.com/Nekita95/rsschool-cv/blob/gh-pages/cv.md
 ### My contacts ###
 **Location:** Gomel, Belarus
 **Phone:** +375 33 662-50-69
-**Email:** kryvetskistud@gmail.com
+**Email:** baraban95@tut.by
 **GitHub:** Nekita95
 ### About Me ###
 An ordinary guy from Gomel who decided to change his life at the age of 27 and become a programmer.
