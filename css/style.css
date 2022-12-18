@@ -1,0 +1,111 @@
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  background-color: brown;
+}
+
+.nav-list {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  list-style: none;
+  padding-right: 45px;
+}
+
+.nav-list li a {
+  margin: 10px;
+  color: white;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.font-face {
+  width: 35%;
+  margin: 0;
+  text-align: center;
+  background-color: brown;
+  color: white;
+}
+
+.avatar {
+  width: 80%;
+  border-radius: 50%;
+}
+
+.information {
+  width: 65%;
+  margin: 0;
+  border-radius: 20px;
+  background-color: white;
+  margin-right: 10px;
+  font-size: 40px;
+  color: brown;
+  padding-left: 40px;
+}
+
+.information section {
+  margin-top: 100px;
+}
+
+body {
+  margin: 0;
+}
+
+main {
+  display: flex;
+}
+
+header {
+  background-color: brown;
+}
+
+.contacts {
+  list-style: none;
+  padding: 0;
+}
+
+.contacts hr {
+  width: 50%;
+}
+
+h1 {
+  font-size: 40px;
+}
+
+footer {
+  background-color: brown;
+}
+
+.foot-img {
+  width: 100px;
+}
+
+.foot-list {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  list-style: none;
+  color: white;
+}
+
+.foot-list li a {
+  margin-left: 40px;
+  margin-right: 40px;
+  color: white;
+  text-decoration: none;
+}
+
+.skills {
+  list-style: none;
+  padding: 0;
+}
+
+h2 {
+  padding-left: 40px;
+}
+
+.information hr {
+  width: 80%;
+}
