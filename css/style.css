@@ -46,6 +46,10 @@ body {
   padding-left: 40px;
 }
 
+#codeexample pre {
+  font-size: 20px;
+}
+
 .information section {
   margin-top: 100px;
 }
