@@ -2,7 +2,8 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  background-color: brown;
+  background-color: brown;  
+  margin: 0;
 }
 
 .nav-list {
@@ -47,10 +48,6 @@ body {
 
 .information section {
   margin-top: 100px;
-}
-
-body {
-  margin: 0;
 }
 
 main {
@@ -108,4 +105,8 @@ h2 {
 
 .information hr {
   width: 80%;
+}
+
+.container {
+  margin: 0 auto;
 }
